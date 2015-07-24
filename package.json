@@ -1,0 +1,13 @@
+{
+  "title": "html2canvas_5.2_alpha_bug-491",
+  "name": "html2canvas52alpha",
+  "version": "0.0.1",
+  "description": "test case 2",
+  "main": "index.js",
+  "author": "Jared Null",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
